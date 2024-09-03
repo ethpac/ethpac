@@ -1,4 +1,4 @@
-# 💫 Hello there! My name is Ethan Pacleb:
+# Hello there! My name is Ethan Pacleb
 I am a new grad Software Developer that is passionate about everything tech.<br><br>I studied Computer Science at DePaul University in Chicago, Illinois.<br><br>Alongside developing software, I love building personal computers and consulting others on what tech products to purchase based on their use cases.
 
 
