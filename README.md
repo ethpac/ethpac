@@ -1,5 +1,5 @@
 # Hello there! My name is Ethan Pacleb
-I am a new grad Software Developer that is passionate about everything tech.<br><br>I studied Computer Science at DePaul University in Chicago, Illinois.<br><br>Alongside developing software, I love building personal computers and consulting others on what tech products to purchase based on their use cases.
+I am the Salesforce Admin & Data Integrations Specialist of Lincoln Park Zo. I am very passionate about making software and data flow more efficient. In my free time, I am a techie who enjoys staying up to date on the latest and greatest tech hardware and software, more specifically Apple.<br><br> I studied Computer Science at DePaul University in Chicago, Illinois. <br><br> Alongside developing software, I love building personal computers and consulting others on what tech products to purchase based on their use cases.
 
 
 # 💻 Tech Stack:
